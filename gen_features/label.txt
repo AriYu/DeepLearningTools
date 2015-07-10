@@ -1,0 +1,13 @@
+0 -> eri
+1 -> hanayo
+2 -> honoka
+3 -> kotori
+4 -> maki
+5 -> niko
+6 -> nozomi
+7 -> rin
+8 -> umi
+9 -> etc
+
+ yuta ⮀ ~/Documents/source-codes/deeplearning/make_train_data ⮀ ./cpp/build/maketrain /home/yuta/Videos/lovelive_encoded/ラブライブ！第2話.mp4
+

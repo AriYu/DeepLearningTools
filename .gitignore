@@ -1,0 +1,6 @@
+animefacedetect/cpp/build/
+make_train_data/images
+make_train_data/cpp/build/
+gen_features/cpp/build
+*~
+
