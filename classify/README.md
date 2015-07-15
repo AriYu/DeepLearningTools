@@ -21,6 +21,4 @@ $ python lovelive_facedetection_on_videos.py input.mp4 output.avi
 ```
 
 # 参考
-- [kivantium活動日記 - ご注文は機械学習ですか？](http://kivantium.hateblo.jp/entry/2014/11/25/230658)
-
 - [Github @Ry0/snsd_classify](https://github.com/Ry0/snsd_classify)

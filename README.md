@@ -14,3 +14,4 @@
 
 # 参考
 - [kivantium活動日記 - ご注文は機械学習ですか？](http://kivantium.hateblo.jp/entry/2014/11/25/230658)
+- [デー - OpenCVによるアニメ顔検出ならlbpcascade_animeface.xml](http://ultraist.hatenablog.com/entry/20110718/1310965532)

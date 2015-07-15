@@ -6,6 +6,7 @@
 ```bash
 $ cd cpp
 $ mkdir build
+$ cd build
 $ cmake ..
 $ make
 ```
@@ -28,10 +29,10 @@ $ make
 ├── umi
 ```
 
-このようなディレクトリ構造を作っておく.たとえば、上記のサブディレクトリが`./images`にあるとすれば
+このようなディレクトリ構造を作っておく.たとえば、上記のサブディレクトリがカレントディレクトリの`./images`にあるとすれば
 
 ```bash
-$ ./cpp/build/maketrain --param=param3.xml --cascade=lbpcascade_animeface.xml --input=/home/yuta/Videos/lovelive_encoded/ラブライブ！第1話.mp4 --output=./images
+$ ./cpp/build/maketrain --param=param3.xml --cascade=lbpcascade_animeface.xml --input=~/hogehoge/ラブライブ！第1話.mp4 --output=./images
 ```
 
 とする。あとは手で間違ったやつを仕分ける。
